@@ -6,10 +6,10 @@ myConfig = {
      "identity": {
          "orgId": "hj5fmy",
          "typeId": "NodeMCU",
-         "deviceId": "12345"
+         "deviceId": "94294"
 },
      "auth": {
-         "token": "12345678"
+         "token": "94294294"
 }
 }
 client = wiotp.sdk.device.DeviceClient (config=myConfig, logHandlers=None)
